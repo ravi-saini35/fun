@@ -14,6 +14,7 @@ void enque(int item)
     else
       array[++rear]=item;
 }
+//jsdfiefjifjnkfn ncnejhe beffe  njehk nnj
 int deque()
 {
   if(front==-1 || front>rear)
